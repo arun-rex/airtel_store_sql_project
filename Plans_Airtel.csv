@@ -1,0 +1,11 @@
+﻿Plan_ID,Plan_Name,Price,Validity_Days,Data_GB,5G
+1,Plan 1,199,28,2,Yes
+2,Plan 2,299,28,50,Yes
+3,Plan 3,399,56,100,Yes
+4,Plan 4,499,56,150,Yes
+5,Plan 5,599,84,200,Yes
+6,Plan 6,719,84,Unlimited,Yes
+7,Plan 7,839,84,Unlimited,Yes
+8,Plan 8,999,365,365,Yes
+9,Plan 9,1499,365,Unlimited,Yes
+10,Plan 10,2999,365,Unlimited,Yes

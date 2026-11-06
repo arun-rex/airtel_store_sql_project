@@ -1,0 +1,46 @@
+AIRTEL TELECOM SQL PROJECT - QUESTIONS
+Tables: PLANS, CUSTOMERS, RECHARGE_HISTORY, DATA_USAGE, COMPLAINTS, NETWORK_TOWERS
+
+BASIC LEVEL
+
+Q1. Show all active customers from Delhi.
+Q2. Show unique cities where customers belong.
+Q3. Show states having more than 100 customers.
+Q4. Find the minimum and maximum recharge amount.
+Q5. Calculate the average recharge amount by payment mode.
+
+INTERMEDIATE LEVEL
+
+Q6. Show customers who never recharged.
+Q7. Display the customer name, plan name, recharge amount, and recharge date.
+Q8. Top 5 cities with the maximum number of active customers.
+Q9. Display: full name, full name in upper case, first 3 letters of the first name, and the length of the full name.
+Q10. Display customers who have never raised a complaint.
+Q11. Find the oldest recharge transaction made by each customer.
+Q12. Display all customers who have not recharged in the last 60 days.
+Q13. Display the number of recharges made in each month of every year.
+
+ADVANCED LEVEL
+
+Q14. Display the customer name, total recharge amount, and categorize each customer as PLATINUM (>=8000), GOLD (5000-7999), SILVER (3000-4999), or BRONZE (<3000). Sort the result by total recharge in descending order.
+Q15. Create a view that displays the customer name, city, and join date.
+Q16. Display the customer ID, customer name, and customer status. If the customer is active, display 'ACTIVE CUSTOMER', otherwise display 'INACTIVE CUSTOMER'.
+Q17. Display all customer IDs from the customers table and the complaints table without duplicate values.
+Q18. Create a stored procedure to display all customer details.
+Q19. Display the total recharge amount of each customer using a CTE.
+Q20. Create a stored procedure to display all recharge records greater than a given amount.
+Q21. Display all cities from the customers table and the network towers table without duplicate values.
+Q22. Display all recharge transactions whose recharge amount is higher than the average recharge amount.
+Q23. Rank all customers based on their total recharge amount.
+Q24. Create a stored procedure that accepts a city name as input and displays all active customers from that city.
+Q25. Create a stored procedure that accepts a customer ID as input and displays the customer's name, plan name, recharge amount, and recharge date.
+
+
+BONUS QUESTIONS
+
+Q26. Find customers whose average monthly data usage exceeds 50 GB.
+Q27. Display the number of complaints for each complaint type, broken down by their current status.
+Q28. Find the top 3 cities with the weakest average network tower signal strength.
+Q29. Identify customers who have raised more than 2 complaints.
+Q30. For each customer, show every recharge along with a running total of their recharges ordered by recharge date.
+Q31. Create a stored procedure that accepts a complaint status as input and displays the complaint ID, customer name, city, complaint type, status, and complaint date for all matching complaints.

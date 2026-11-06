@@ -1,0 +1,701 @@
+﻿Complaint_ID,Customer_ID,Complaint_Type,Status,Created_Date
+7001,1572,Network Issue,Open,2025-04-05
+7002,1370,Recharge Failed,In Progress,2025-04-23
+7003,1259,Slow Internet,Closed,2025-06-09
+7004,1148,Recharge Failed,Open,2025-03-28
+7005,1999,Network Issue,Open,2025-02-18
+7006,1112,SIM Issue,In Progress,2025-05-08
+7007,1581,Network Issue,Open,2025-04-23
+7008,1622,Slow Internet,Closed,2025-07-08
+7009,1621,Slow Internet,Closed,2025-03-16
+7010,1453,Recharge Failed,Open,2025-07-04
+7011,1194,Slow Internet,Open,2025-01-31
+7012,1635,Network Issue,Closed,2025-04-21
+7013,1156,Recharge Failed,Open,2025-01-11
+7014,1227,Billing,In Progress,2025-01-26
+7015,1307,Billing,Closed,2025-07-09
+7016,1443,SIM Issue,Open,2025-05-08
+7017,1274,Billing,Closed,2025-01-08
+7018,1619,SIM Issue,In Progress,2025-07-04
+7019,1235,Recharge Failed,In Progress,2025-07-15
+7020,1238,Recharge Failed,Open,2025-02-18
+7021,1513,Recharge Failed,In Progress,2025-04-21
+7022,1080,Recharge Failed,Open,2025-03-05
+7023,1912,Slow Internet,Closed,2025-02-25
+7024,1767,Network Issue,In Progress,2025-07-16
+7025,1841,Billing,Open,2025-04-09
+7026,1167,SIM Issue,Closed,2025-06-08
+7027,1153,Slow Internet,In Progress,2025-04-13
+7028,1296,Recharge Failed,Closed,2025-01-31
+7029,1015,SIM Issue,In Progress,2025-02-23
+7030,1778,Slow Internet,In Progress,2025-02-19
+7031,1341,Recharge Failed,In Progress,2025-07-11
+7032,1442,Recharge Failed,In Progress,2025-03-04
+7033,1403,Recharge Failed,In Progress,2025-05-15
+7034,1492,Recharge Failed,In Progress,2025-07-17
+7035,1979,Slow Internet,Closed,2025-04-16
+7036,1653,Network Issue,In Progress,2025-01-07
+7037,1871,SIM Issue,In Progress,2025-04-11
+7038,1008,Slow Internet,Closed,2025-05-20
+7039,1414,Billing,Open,2025-05-16
+7040,1795,Billing,Closed,2025-02-17
+7041,1586,Network Issue,In Progress,2025-05-13
+7042,1601,Slow Internet,In Progress,2025-02-11
+7043,1025,Recharge Failed,Closed,2025-01-13
+7044,1646,Network Issue,Closed,2025-04-29
+7045,1622,Billing,In Progress,2025-01-16
+7046,1429,Recharge Failed,Open,2025-04-10
+7047,1666,Network Issue,Open,2025-01-25
+7048,1123,Slow Internet,In Progress,2025-06-17
+7049,1111,Network Issue,In Progress,2025-02-28
+7050,1030,Slow Internet,Closed,2025-01-25
+7051,1383,Slow Internet,Closed,2025-06-24
+7052,1252,Billing,In Progress,2025-04-11
+7053,1993,Slow Internet,In Progress,2025-04-16
+7054,1014,Billing,Closed,2025-01-01
+7055,1523,SIM Issue,Closed,2025-05-12
+7056,1664,Recharge Failed,Closed,2025-02-16
+7057,1231,Slow Internet,Open,2025-04-24
+7058,1229,SIM Issue,Closed,2025-07-14
+7059,1863,SIM Issue,Open,2025-04-28
+7060,1663,SIM Issue,In Progress,2025-04-19
+7061,1083,Billing,In Progress,2025-03-07
+7062,1276,Recharge Failed,Open,2025-04-02
+7063,1924,Network Issue,In Progress,2025-02-25
+7064,1869,Network Issue,Closed,2025-04-28
+7065,1237,Slow Internet,Open,2025-06-26
+7066,1309,Network Issue,In Progress,2025-07-02
+7067,1144,Billing,Closed,2025-01-19
+7068,1139,SIM Issue,Closed,2025-07-12
+7069,1345,Slow Internet,Closed,2025-05-14
+7070,1094,Network Issue,In Progress,2025-03-30
+7071,1292,SIM Issue,Open,2025-03-18
+7072,1904,Billing,Closed,2025-01-23
+7073,1761,Network Issue,In Progress,2025-02-06
+7074,1317,Recharge Failed,In Progress,2025-06-23
+7075,1823,Recharge Failed,In Progress,2025-06-26
+7076,1582,SIM Issue,In Progress,2025-03-15
+7077,1965,Recharge Failed,In Progress,2025-05-10
+7078,1668,Recharge Failed,Closed,2025-06-02
+7079,1343,Recharge Failed,In Progress,2025-04-28
+7080,1434,Slow Internet,Closed,2025-04-04
+7081,1343,Slow Internet,In Progress,2025-02-27
+7082,1196,Slow Internet,In Progress,2025-07-18
+7083,1142,Recharge Failed,In Progress,2025-05-23
+7084,1880,Slow Internet,Closed,2025-03-25
+7085,1366,Billing,Open,2025-05-27
+7086,1690,Recharge Failed,In Progress,2025-06-13
+7087,1761,Slow Internet,In Progress,2025-03-02
+7088,1714,Network Issue,In Progress,2025-03-14
+7089,1676,SIM Issue,Open,2025-01-19
+7090,1711,Recharge Failed,Open,2025-06-19
+7091,1309,SIM Issue,Open,2025-01-07
+7092,1584,Slow Internet,In Progress,2025-06-04
+7093,1684,Network Issue,Open,2025-03-31
+7094,1756,Billing,In Progress,2025-07-14
+7095,1284,SIM Issue,In Progress,2025-07-06
+7096,1597,SIM Issue,In Progress,2025-05-07
+7097,1410,Network Issue,Closed,2025-07-01
+7098,1470,Slow Internet,Closed,2025-05-10
+7099,1954,Network Issue,Open,2025-02-28
+7100,1237,Recharge Failed,In Progress,2025-02-19
+7101,1405,Billing,Closed,2025-03-23
+7102,1467,Recharge Failed,In Progress,2025-04-05
+7103,1317,Billing,Open,2025-04-22
+7104,1798,Network Issue,Open,2025-01-02
+7105,1751,Recharge Failed,In Progress,2025-06-08
+7106,1349,Billing,Open,2025-07-08
+7107,1219,Slow Internet,In Progress,2025-05-07
+7108,1290,Recharge Failed,In Progress,2025-02-27
+7109,1578,SIM Issue,In Progress,2025-01-09
+7110,1983,Slow Internet,In Progress,2025-05-18
+7111,1392,Recharge Failed,Open,2025-02-20
+7112,1329,SIM Issue,Closed,2025-01-13
+7113,1904,Billing,Open,2025-04-20
+7114,1363,Recharge Failed,Closed,2025-07-10
+7115,1514,Slow Internet,In Progress,2025-02-26
+7116,1311,Recharge Failed,In Progress,2025-07-05
+7117,1824,Billing,Open,2025-03-26
+7118,1707,Billing,In Progress,2025-03-28
+7119,1315,Slow Internet,Open,2025-04-27
+7120,1372,Recharge Failed,Closed,2025-02-13
+7121,1997,SIM Issue,In Progress,2025-06-13
+7122,1530,Slow Internet,Open,2025-01-17
+7123,1023,Billing,Open,2025-04-09
+7124,1371,Slow Internet,Closed,2025-02-18
+7125,1195,Billing,In Progress,2025-04-19
+7126,1230,Network Issue,Open,2025-03-03
+7127,1699,Slow Internet,Open,2025-02-12
+7128,1294,Network Issue,In Progress,2025-02-02
+7129,1141,Network Issue,Open,2025-03-01
+7130,1162,Network Issue,Open,2025-04-03
+7131,1174,Network Issue,Closed,2025-04-04
+7132,1061,Slow Internet,Closed,2025-06-05
+7133,1961,SIM Issue,In Progress,2025-05-28
+7134,1181,Network Issue,Open,2025-02-06
+7135,1309,Network Issue,Open,2025-01-07
+7136,1593,Recharge Failed,Open,2025-01-29
+7137,1560,Recharge Failed,Open,2025-06-19
+7138,1405,Recharge Failed,In Progress,2025-06-13
+7139,1255,Network Issue,Closed,2025-03-11
+7140,1542,Recharge Failed,Open,2025-07-20
+7141,1806,Recharge Failed,Closed,2025-06-26
+7142,1573,Billing,Open,2025-01-26
+7143,1241,Billing,Open,2025-06-11
+7144,1600,Network Issue,Open,2025-04-27
+7145,1632,Recharge Failed,Closed,2025-03-26
+7146,1410,Recharge Failed,In Progress,2025-04-13
+7147,1288,Recharge Failed,Open,2025-03-18
+7148,1158,SIM Issue,In Progress,2025-01-12
+7149,1804,Billing,Closed,2025-04-03
+7150,1957,Recharge Failed,In Progress,2025-01-27
+7151,1610,Slow Internet,In Progress,2025-06-08
+7152,1535,Billing,In Progress,2025-03-20
+7153,1389,Network Issue,Open,2025-03-25
+7154,1108,Billing,Closed,2025-04-06
+7155,1886,Recharge Failed,Closed,2025-01-12
+7156,1864,Slow Internet,In Progress,2025-07-19
+7157,1968,SIM Issue,In Progress,2025-02-23
+7158,1612,SIM Issue,In Progress,2025-03-31
+7159,1615,Slow Internet,Open,2025-07-13
+7160,1281,Slow Internet,Open,2025-06-08
+7161,1667,Slow Internet,Closed,2025-02-21
+7162,1802,SIM Issue,Closed,2025-06-19
+7163,1650,Network Issue,Closed,2025-03-28
+7164,1728,Billing,Closed,2025-06-24
+7165,1799,Billing,Closed,2025-02-28
+7166,1461,Recharge Failed,Closed,2025-05-03
+7167,1377,SIM Issue,In Progress,2025-06-10
+7168,1411,Network Issue,In Progress,2025-02-23
+7169,1906,Recharge Failed,Closed,2025-04-30
+7170,1841,Slow Internet,Closed,2025-04-11
+7171,1229,Recharge Failed,Closed,2025-02-12
+7172,1085,SIM Issue,In Progress,2025-04-07
+7173,1779,SIM Issue,Closed,2025-05-16
+7174,1686,Slow Internet,Open,2025-07-04
+7175,1373,Recharge Failed,In Progress,2025-01-05
+7176,1974,Network Issue,Closed,2025-03-11
+7177,1287,SIM Issue,In Progress,2025-03-19
+7178,1598,Billing,Open,2025-02-16
+7179,1537,Recharge Failed,Closed,2025-07-16
+7180,1184,Network Issue,In Progress,2025-01-06
+7181,1695,Recharge Failed,Open,2025-06-25
+7182,1081,Recharge Failed,Open,2025-05-23
+7183,1602,Recharge Failed,In Progress,2025-02-21
+7184,1336,Network Issue,In Progress,2025-04-25
+7185,1460,Billing,Closed,2025-06-17
+7186,1086,SIM Issue,In Progress,2025-01-10
+7187,1244,Slow Internet,In Progress,2025-02-20
+7188,1012,Network Issue,Open,2025-02-01
+7189,1491,Network Issue,Open,2025-03-02
+7190,1753,SIM Issue,Closed,2025-01-29
+7191,1600,Slow Internet,Open,2025-01-26
+7192,1140,Recharge Failed,Open,2025-07-02
+7193,1302,Slow Internet,Closed,2025-04-08
+7194,1035,SIM Issue,In Progress,2025-06-05
+7195,1890,Slow Internet,Closed,2025-07-12
+7196,1275,SIM Issue,Open,2025-01-13
+7197,1377,SIM Issue,Closed,2025-07-10
+7198,1084,Recharge Failed,Closed,2025-06-15
+7199,1323,Recharge Failed,Open,2025-02-04
+7200,1847,Billing,In Progress,2025-05-19
+7201,1462,Slow Internet,Open,2025-03-03
+7202,1019,SIM Issue,Closed,2025-03-19
+7203,1209,Recharge Failed,In Progress,2025-01-18
+7204,1979,Recharge Failed,Closed,2025-07-02
+7205,1432,SIM Issue,In Progress,2025-03-08
+7206,1424,Billing,In Progress,2025-06-19
+7207,1239,Network Issue,Open,2025-01-21
+7208,1526,Billing,Open,2025-06-08
+7209,1017,Network Issue,Closed,2025-06-13
+7210,1096,Billing,Closed,2025-05-30
+7211,1881,Billing,Open,2025-05-09
+7212,1112,Network Issue,Closed,2025-06-07
+7213,1404,Slow Internet,Open,2025-07-03
+7214,1777,Recharge Failed,Open,2025-01-21
+7215,1294,Network Issue,Closed,2025-02-19
+7216,1286,Network Issue,Closed,2025-04-28
+7217,1597,Billing,In Progress,2025-06-18
+7218,1811,Slow Internet,Open,2025-05-06
+7219,1933,Billing,Closed,2025-01-27
+7220,1404,Network Issue,Closed,2025-07-02
+7221,1757,Billing,Open,2025-03-07
+7222,1686,Network Issue,Closed,2025-01-25
+7223,1527,Recharge Failed,Closed,2025-07-19
+7224,1668,Recharge Failed,In Progress,2025-07-20
+7225,1146,Network Issue,Open,2025-05-29
+7226,1547,Network Issue,Open,2025-07-07
+7227,1514,SIM Issue,In Progress,2025-01-31
+7228,1048,SIM Issue,Closed,2025-03-23
+7229,1622,Billing,Open,2025-01-05
+7230,1276,Recharge Failed,Open,2025-04-09
+7231,1389,Billing,Closed,2025-06-18
+7232,1741,Recharge Failed,In Progress,2025-05-12
+7233,1225,Billing,Open,2025-06-17
+7234,1037,SIM Issue,Closed,2025-06-06
+7235,1475,Recharge Failed,Closed,2025-04-10
+7236,1910,Recharge Failed,Open,2025-01-26
+7237,1693,Billing,Open,2025-06-13
+7238,1660,Billing,Open,2025-07-16
+7239,1390,SIM Issue,Open,2025-01-21
+7240,1773,Slow Internet,Open,2025-03-11
+7241,1576,Recharge Failed,Closed,2025-06-14
+7242,1171,Recharge Failed,In Progress,2025-06-21
+7243,1972,Billing,In Progress,2025-03-21
+7244,1381,SIM Issue,Open,2025-02-11
+7245,1717,Recharge Failed,In Progress,2025-03-04
+7246,1155,SIM Issue,In Progress,2025-02-10
+7247,1661,Recharge Failed,In Progress,2025-02-06
+7248,1658,SIM Issue,Open,2025-05-11
+7249,1883,SIM Issue,Open,2025-06-06
+7250,1398,Billing,Closed,2025-07-11
+7251,1185,Slow Internet,Open,2025-03-15
+7252,1920,Network Issue,Closed,2025-07-12
+7253,1238,Network Issue,In Progress,2025-01-11
+7254,1652,Recharge Failed,Closed,2025-03-18
+7255,1325,SIM Issue,Open,2025-06-19
+7256,1407,Billing,In Progress,2025-02-14
+7257,1600,Recharge Failed,In Progress,2025-04-13
+7258,1316,Network Issue,Open,2025-04-07
+7259,1536,Recharge Failed,Open,2025-03-13
+7260,1125,Network Issue,In Progress,2025-03-16
+7261,1524,Billing,Open,2025-01-17
+7262,1418,SIM Issue,Open,2025-04-28
+7263,1968,Network Issue,Closed,2025-06-07
+7264,1727,Network Issue,In Progress,2025-02-11
+7265,1789,Network Issue,Open,2025-04-01
+7266,1732,Slow Internet,Open,2025-01-17
+7267,1658,SIM Issue,In Progress,2025-04-26
+7268,1889,Recharge Failed,Open,2025-02-12
+7269,1022,Slow Internet,In Progress,2025-05-12
+7270,1508,Slow Internet,In Progress,2025-03-27
+7271,1480,SIM Issue,Open,2025-03-04
+7272,1383,Recharge Failed,Open,2025-04-24
+7273,1138,Recharge Failed,Open,2025-07-16
+7274,1540,SIM Issue,In Progress,2025-03-09
+7275,1825,SIM Issue,In Progress,2025-07-19
+7276,1184,Recharge Failed,Closed,2025-05-11
+7277,1681,Recharge Failed,In Progress,2025-02-09
+7278,1882,SIM Issue,Closed,2025-06-14
+7279,1251,Slow Internet,Open,2025-05-30
+7280,1739,SIM Issue,In Progress,2025-05-13
+7281,1178,Billing,Closed,2025-04-19
+7282,1692,Billing,Closed,2025-02-03
+7283,1064,Recharge Failed,Closed,2025-06-26
+7284,1037,SIM Issue,Open,2025-05-29
+7285,1078,Billing,Open,2025-03-06
+7286,1288,SIM Issue,In Progress,2025-02-04
+7287,1409,Slow Internet,In Progress,2025-06-22
+7288,1232,Slow Internet,Closed,2025-06-11
+7289,1081,Slow Internet,In Progress,2025-07-09
+7290,1923,SIM Issue,Closed,2025-04-26
+7291,1324,Network Issue,Open,2025-05-13
+7292,1060,Billing,Open,2025-04-16
+7293,1253,Recharge Failed,In Progress,2025-03-27
+7294,1356,Recharge Failed,Closed,2025-01-12
+7295,1229,Billing,In Progress,2025-02-23
+7296,1417,Recharge Failed,In Progress,2025-03-10
+7297,1026,Slow Internet,Open,2025-01-21
+7298,1007,Recharge Failed,Open,2025-06-17
+7299,1749,SIM Issue,Closed,2025-01-20
+7300,1796,Slow Internet,In Progress,2025-01-23
+7301,1163,Slow Internet,In Progress,2025-04-13
+7302,1169,Network Issue,Closed,2025-06-11
+7303,1532,Network Issue,Closed,2025-03-30
+7304,1827,Billing,Open,2025-04-14
+7305,1092,Recharge Failed,Closed,2025-06-10
+7306,1190,SIM Issue,Closed,2025-05-31
+7307,1072,Billing,Open,2025-07-06
+7308,1330,Billing,Open,2025-01-31
+7309,1939,SIM Issue,Closed,2025-01-18
+7310,1691,Slow Internet,In Progress,2025-06-30
+7311,1511,SIM Issue,In Progress,2025-06-30
+7312,1165,Recharge Failed,In Progress,2025-01-31
+7313,1262,Slow Internet,In Progress,2025-05-28
+7314,1792,Network Issue,Closed,2025-05-21
+7315,1831,Slow Internet,Closed,2025-04-02
+7316,1599,SIM Issue,Closed,2025-01-02
+7317,1524,Network Issue,In Progress,2025-04-01
+7318,1579,Network Issue,Open,2025-03-20
+7319,1770,Recharge Failed,In Progress,2025-04-28
+7320,1277,Billing,Closed,2025-02-10
+7321,1091,SIM Issue,Closed,2025-04-15
+7322,1480,SIM Issue,Open,2025-02-28
+7323,1017,SIM Issue,Closed,2025-02-11
+7324,1447,Slow Internet,Open,2025-02-24
+7325,1356,Billing,In Progress,2025-07-19
+7326,1513,Billing,Open,2025-02-17
+7327,1291,Network Issue,Closed,2025-02-02
+7328,1516,Recharge Failed,Closed,2025-06-21
+7329,1392,Billing,Open,2025-05-18
+7330,1511,Network Issue,Closed,2025-07-08
+7331,1401,Recharge Failed,Closed,2025-03-22
+7332,1558,Slow Internet,Closed,2025-01-22
+7333,1795,Recharge Failed,Closed,2025-03-08
+7334,1361,Recharge Failed,In Progress,2025-02-10
+7335,1651,Billing,Closed,2025-04-27
+7336,1141,Slow Internet,In Progress,2025-05-12
+7337,1674,SIM Issue,Open,2025-02-23
+7338,1560,Recharge Failed,Closed,2025-01-20
+7339,1550,Billing,In Progress,2025-04-04
+7340,1791,Slow Internet,Open,2025-03-01
+7341,1437,Recharge Failed,Open,2025-03-13
+7342,1024,Network Issue,Open,2025-03-29
+7343,1884,SIM Issue,Open,2025-04-03
+7344,1212,Recharge Failed,In Progress,2025-02-25
+7345,1860,Network Issue,Open,2025-02-13
+7346,1880,Billing,In Progress,2025-03-03
+7347,1493,Recharge Failed,In Progress,2025-03-24
+7348,1332,Recharge Failed,In Progress,2025-01-26
+7349,1034,Billing,Open,2025-07-07
+7350,1621,SIM Issue,In Progress,2025-06-08
+7351,1110,Billing,Closed,2025-05-01
+7352,1986,SIM Issue,In Progress,2025-05-17
+7353,1716,Recharge Failed,Closed,2025-01-28
+7354,1978,SIM Issue,In Progress,2025-04-03
+7355,1456,Slow Internet,Closed,2025-03-11
+7356,1691,Network Issue,Closed,2025-06-02
+7357,1013,Recharge Failed,Open,2025-05-05
+7358,1861,SIM Issue,Open,2025-04-13
+7359,1042,Recharge Failed,In Progress,2025-05-28
+7360,1307,Network Issue,Open,2025-05-21
+7361,1115,Network Issue,In Progress,2025-04-01
+7362,1751,Billing,Closed,2025-03-01
+7363,1530,Slow Internet,In Progress,2025-01-05
+7364,1779,Network Issue,Closed,2025-07-02
+7365,1230,SIM Issue,Closed,2025-05-05
+7366,1125,Slow Internet,Closed,2025-05-16
+7367,1902,SIM Issue,In Progress,2025-05-02
+7368,1864,Network Issue,Closed,2025-03-09
+7369,1638,Network Issue,Open,2025-04-21
+7370,1973,Recharge Failed,Closed,2025-06-30
+7371,1471,Slow Internet,In Progress,2025-01-29
+7372,1107,Network Issue,Closed,2025-04-11
+7373,1975,Slow Internet,Open,2025-04-25
+7374,1285,Slow Internet,Open,2025-02-15
+7375,1463,SIM Issue,Open,2025-01-07
+7376,1814,Recharge Failed,Closed,2025-04-30
+7377,1718,Network Issue,Open,2025-04-08
+7378,1021,Billing,In Progress,2025-04-19
+7379,1168,SIM Issue,Closed,2025-05-04
+7380,1803,Billing,In Progress,2025-03-08
+7381,1628,Network Issue,Open,2025-04-21
+7382,1757,SIM Issue,Closed,2025-02-10
+7383,1910,Recharge Failed,Closed,2025-07-17
+7384,1042,Network Issue,Open,2025-01-31
+7385,1961,Recharge Failed,Open,2025-07-05
+7386,1307,Network Issue,Open,2025-02-15
+7387,1145,Recharge Failed,Closed,2025-01-12
+7388,1662,Recharge Failed,Open,2025-04-03
+7389,1956,Billing,In Progress,2025-04-25
+7390,1002,Network Issue,Closed,2025-02-07
+7391,1018,SIM Issue,Open,2025-06-07
+7392,1685,SIM Issue,Closed,2025-05-15
+7393,1897,Recharge Failed,Open,2025-05-17
+7394,1132,Billing,Open,2025-02-20
+7395,1032,SIM Issue,Open,2025-04-17
+7396,1817,Network Issue,Open,2025-06-09
+7397,1021,SIM Issue,Open,2025-02-23
+7398,1044,Billing,Closed,2025-02-07
+7399,1113,Recharge Failed,In Progress,2025-02-13
+7400,1888,Slow Internet,In Progress,2025-02-05
+7401,1669,Network Issue,In Progress,2025-03-14
+7402,1288,Slow Internet,In Progress,2025-06-19
+7403,1440,Recharge Failed,In Progress,2025-01-24
+7404,1601,Slow Internet,In Progress,2025-03-01
+7405,1368,Recharge Failed,Closed,2025-02-28
+7406,1006,Recharge Failed,Open,2025-06-14
+7407,1525,SIM Issue,In Progress,2025-02-09
+7408,1031,Billing,In Progress,2025-07-09
+7409,1460,Recharge Failed,In Progress,2025-04-10
+7410,1471,Billing,Open,2025-01-13
+7411,1990,SIM Issue,In Progress,2025-04-20
+7412,1498,Recharge Failed,Open,2025-06-03
+7413,1973,Network Issue,Open,2025-01-15
+7414,1601,Billing,Open,2025-04-04
+7415,1143,SIM Issue,Closed,2025-06-11
+7416,1635,Billing,In Progress,2025-01-09
+7417,1755,Recharge Failed,Open,2025-05-29
+7418,1573,Recharge Failed,In Progress,2025-04-27
+7419,1485,Recharge Failed,In Progress,2025-02-04
+7420,1008,SIM Issue,Open,2025-07-05
+7421,1511,Billing,Open,2025-02-13
+7422,1582,Recharge Failed,Closed,2025-05-07
+7423,1930,Recharge Failed,In Progress,2025-01-31
+7424,1220,Recharge Failed,Closed,2025-03-16
+7425,1375,Network Issue,Open,2025-06-19
+7426,1375,Recharge Failed,Open,2025-03-16
+7427,1097,Network Issue,Open,2025-03-14
+7428,1332,SIM Issue,Open,2025-03-02
+7429,1676,Network Issue,Open,2025-01-26
+7430,1143,Recharge Failed,Open,2025-01-10
+7431,1880,SIM Issue,Open,2025-03-03
+7432,1937,Recharge Failed,Closed,2025-01-06
+7433,1749,Slow Internet,In Progress,2025-03-10
+7434,1963,Recharge Failed,In Progress,2025-04-13
+7435,1196,Billing,Closed,2025-01-29
+7436,1583,SIM Issue,In Progress,2025-02-10
+7437,1797,Recharge Failed,Open,2025-07-15
+7438,1979,Recharge Failed,In Progress,2025-05-06
+7439,1165,Network Issue,Closed,2025-01-04
+7440,1795,Recharge Failed,Open,2025-06-19
+7441,1938,SIM Issue,Closed,2025-07-15
+7442,1445,Slow Internet,Closed,2025-06-16
+7443,1317,Recharge Failed,In Progress,2025-03-11
+7444,1392,SIM Issue,In Progress,2025-01-05
+7445,1626,Network Issue,In Progress,2025-02-11
+7446,1993,SIM Issue,In Progress,2025-06-06
+7447,1274,Recharge Failed,In Progress,2025-04-04
+7448,1548,Network Issue,Open,2025-04-30
+7449,1297,Billing,In Progress,2025-02-10
+7450,1495,Recharge Failed,In Progress,2025-03-16
+7451,1107,Slow Internet,Open,2025-04-08
+7452,1597,SIM Issue,Open,2025-06-27
+7453,1777,Network Issue,Open,2025-07-13
+7454,1943,Billing,Closed,2025-02-04
+7455,1521,SIM Issue,Closed,2025-04-19
+7456,1575,Billing,In Progress,2025-05-07
+7457,1727,Network Issue,Closed,2025-04-17
+7458,1933,Recharge Failed,In Progress,2025-02-07
+7459,1998,Recharge Failed,Closed,2025-07-07
+7460,1522,Recharge Failed,In Progress,2025-07-04
+7461,1032,Recharge Failed,In Progress,2025-04-18
+7462,1128,Slow Internet,Closed,2025-07-16
+7463,1438,Network Issue,Closed,2025-01-03
+7464,1866,Network Issue,In Progress,2025-06-10
+7465,1144,SIM Issue,Open,2025-06-09
+7466,1564,Billing,Open,2025-07-12
+7467,1845,SIM Issue,In Progress,2025-05-28
+7468,1276,Network Issue,Closed,2025-02-14
+7469,1878,Network Issue,Closed,2025-02-27
+7470,1736,Network Issue,In Progress,2025-05-29
+7471,1467,Recharge Failed,In Progress,2025-04-30
+7472,1079,Slow Internet,Open,2025-02-16
+7473,1425,Slow Internet,In Progress,2025-01-13
+7474,1060,Slow Internet,Open,2025-04-19
+7475,1365,Network Issue,In Progress,2025-01-28
+7476,1244,Network Issue,Closed,2025-01-02
+7477,1268,Slow Internet,Open,2025-06-28
+7478,1644,Recharge Failed,In Progress,2025-04-25
+7479,1145,Recharge Failed,Closed,2025-05-16
+7480,1442,Billing,Closed,2025-01-05
+7481,1971,Billing,Closed,2025-01-25
+7482,1688,Network Issue,In Progress,2025-01-23
+7483,1985,Network Issue,Closed,2025-05-27
+7484,1043,Slow Internet,Open,2025-03-21
+7485,1797,Billing,In Progress,2025-02-25
+7486,1202,SIM Issue,In Progress,2025-06-21
+7487,1809,SIM Issue,In Progress,2025-05-28
+7488,1973,Network Issue,Open,2025-06-21
+7489,1669,Billing,Closed,2025-04-25
+7490,1390,SIM Issue,Closed,2025-02-09
+7491,1496,Slow Internet,Closed,2025-02-26
+7492,1111,SIM Issue,Closed,2025-04-28
+7493,1589,SIM Issue,In Progress,2025-05-30
+7494,1650,SIM Issue,In Progress,2025-03-21
+7495,1445,Network Issue,Closed,2025-01-20
+7496,1481,Slow Internet,Closed,2025-03-29
+7497,1844,Network Issue,In Progress,2025-06-26
+7498,1027,Network Issue,Closed,2025-01-17
+7499,1727,Billing,In Progress,2025-01-17
+7500,1511,Billing,Closed,2025-01-27
+7501,1834,Slow Internet,Open,2025-04-23
+7502,1610,Recharge Failed,Open,2025-03-16
+7503,1037,Slow Internet,Closed,2025-01-24
+7504,1227,SIM Issue,Closed,2025-03-24
+7505,1199,Slow Internet,Open,2025-06-26
+7506,1516,Network Issue,Open,2025-06-05
+7507,1284,Slow Internet,Open,2025-04-01
+7508,1128,SIM Issue,In Progress,2025-04-13
+7509,1833,Slow Internet,Open,2025-07-20
+7510,1398,Billing,Closed,2025-06-23
+7511,1336,Network Issue,In Progress,2025-03-10
+7512,1905,Network Issue,In Progress,2025-01-30
+7513,1718,Billing,Closed,2025-03-01
+7514,1109,Billing,Closed,2025-05-09
+7515,1898,Slow Internet,Closed,2025-01-26
+7516,1091,Billing,Open,2025-03-09
+7517,1868,Network Issue,Closed,2025-06-17
+7518,1296,Recharge Failed,Closed,2025-03-10
+7519,1303,Billing,Open,2025-06-17
+7520,1647,Slow Internet,In Progress,2025-04-07
+7521,1539,Recharge Failed,In Progress,2025-02-15
+7522,1414,Slow Internet,In Progress,2025-03-05
+7523,1226,Network Issue,Closed,2025-04-15
+7524,1188,Slow Internet,Closed,2025-02-22
+7525,1877,Slow Internet,Open,2025-06-23
+7526,1088,SIM Issue,In Progress,2025-02-02
+7527,1273,Network Issue,Open,2025-07-07
+7528,1554,Network Issue,Closed,2025-04-05
+7529,1319,Recharge Failed,Open,2025-05-12
+7530,1747,Network Issue,Open,2025-06-27
+7531,1639,Billing,Open,2025-07-13
+7532,1310,Slow Internet,Open,2025-07-08
+7533,1072,Billing,Closed,2025-06-30
+7534,1956,SIM Issue,Closed,2025-04-05
+7535,1411,Billing,In Progress,2025-07-19
+7536,1273,Recharge Failed,Open,2025-07-01
+7537,1147,Recharge Failed,In Progress,2025-05-07
+7538,1219,Slow Internet,Closed,2025-03-12
+7539,1621,Recharge Failed,Closed,2025-01-11
+7540,1073,Recharge Failed,Open,2025-03-23
+7541,1238,Recharge Failed,Open,2025-05-26
+7542,1353,Billing,Closed,2025-05-10
+7543,1240,SIM Issue,Closed,2025-03-23
+7544,1550,Recharge Failed,In Progress,2025-05-07
+7545,1001,Slow Internet,In Progress,2025-07-14
+7546,1184,SIM Issue,In Progress,2025-01-13
+7547,1447,SIM Issue,In Progress,2025-03-09
+7548,1833,Billing,In Progress,2025-04-06
+7549,1722,Billing,Open,2025-04-27
+7550,1307,Slow Internet,In Progress,2025-02-03
+7551,1393,Billing,Closed,2025-01-05
+7552,1800,SIM Issue,Closed,2025-02-18
+7553,1092,Billing,In Progress,2025-01-14
+7554,1552,SIM Issue,In Progress,2025-05-27
+7555,1812,Billing,Closed,2025-02-11
+7556,1567,SIM Issue,Open,2025-07-18
+7557,1177,SIM Issue,Open,2025-02-28
+7558,1399,Recharge Failed,Closed,2025-07-09
+7559,1647,Network Issue,Closed,2025-04-28
+7560,1299,Recharge Failed,Closed,2025-06-21
+7561,1202,Recharge Failed,In Progress,2025-01-21
+7562,1210,Slow Internet,Open,2025-01-23
+7563,1810,Billing,In Progress,2025-03-09
+7564,1981,SIM Issue,In Progress,2025-03-01
+7565,1917,Billing,In Progress,2025-04-26
+7566,1559,Network Issue,In Progress,2025-01-19
+7567,1457,Billing,Open,2025-05-12
+7568,1985,Billing,In Progress,2025-07-09
+7569,1377,Slow Internet,Closed,2025-07-20
+7570,1911,Billing,In Progress,2025-03-11
+7571,1769,SIM Issue,In Progress,2025-06-15
+7572,1462,Slow Internet,Open,2025-02-20
+7573,1386,Recharge Failed,Open,2025-02-04
+7574,1684,Slow Internet,Open,2025-02-20
+7575,1404,SIM Issue,Closed,2025-04-05
+7576,1358,Recharge Failed,Closed,2025-01-31
+7577,1653,Slow Internet,In Progress,2025-05-02
+7578,1973,Network Issue,Open,2025-02-13
+7579,1156,Recharge Failed,In Progress,2025-02-23
+7580,1503,Billing,In Progress,2025-04-24
+7581,1300,Billing,Closed,2025-01-30
+7582,1857,Billing,Open,2025-05-26
+7583,1288,Billing,Open,2025-02-03
+7584,1298,Billing,Open,2025-02-08
+7585,1893,Billing,Closed,2025-06-27
+7586,1385,Billing,Closed,2025-04-21
+7587,1372,Recharge Failed,Open,2025-03-25
+7588,1443,Network Issue,In Progress,2025-06-04
+7589,1812,Slow Internet,In Progress,2025-04-02
+7590,1819,Network Issue,Open,2025-03-02
+7591,1657,Billing,In Progress,2025-02-22
+7592,1397,Slow Internet,In Progress,2025-06-15
+7593,1315,Slow Internet,In Progress,2025-03-05
+7594,1232,SIM Issue,In Progress,2025-02-21
+7595,1967,Network Issue,Open,2025-03-23
+7596,1191,Recharge Failed,In Progress,2025-03-13
+7597,1236,Slow Internet,Open,2025-05-20
+7598,1331,Recharge Failed,In Progress,2025-02-11
+7599,1820,Network Issue,Closed,2025-05-07
+7600,1213,Network Issue,Closed,2025-07-07
+7601,1950,Slow Internet,Open,2025-06-08
+7602,1293,SIM Issue,Open,2025-01-26
+7603,1890,Network Issue,Open,2025-02-14
+7604,1403,Billing,In Progress,2025-03-12
+7605,1290,SIM Issue,Open,2025-02-16
+7606,1909,Network Issue,Open,2025-02-01
+7607,1816,Recharge Failed,Closed,2025-06-05
+7608,1504,SIM Issue,Closed,2025-06-12
+7609,1907,Network Issue,Closed,2025-03-02
+7610,1904,Slow Internet,Closed,2025-04-07
+7611,1279,SIM Issue,Closed,2025-01-22
+7612,1903,Slow Internet,Open,2025-03-25
+7613,1100,Billing,Open,2025-03-07
+7614,1315,Recharge Failed,Open,2025-01-23
+7615,1612,Slow Internet,Open,2025-05-23
+7616,1683,Billing,Closed,2025-04-24
+7617,1159,Billing,In Progress,2025-03-12
+7618,1737,Billing,In Progress,2025-01-16
+7619,1425,Recharge Failed,Closed,2025-02-23
+7620,1434,Slow Internet,In Progress,2025-01-29
+7621,1464,SIM Issue,Closed,2025-03-10
+7622,1216,Recharge Failed,In Progress,2025-02-24
+7623,1962,Network Issue,In Progress,2025-05-21
+7624,1801,SIM Issue,Closed,2025-05-29
+7625,1495,SIM Issue,Closed,2025-02-02
+7626,1234,SIM Issue,Open,2025-01-17
+7627,1475,Billing,Open,2025-05-29
+7628,1969,Billing,In Progress,2025-01-23
+7629,1612,SIM Issue,Closed,2025-04-17
+7630,1514,SIM Issue,Closed,2025-01-31
+7631,1243,SIM Issue,In Progress,2025-07-05
+7632,1506,Slow Internet,Closed,2025-06-15
+7633,1451,Recharge Failed,Open,2025-01-11
+7634,1245,Network Issue,In Progress,2025-06-22
+7635,1572,Network Issue,Open,2025-07-13
+7636,1908,Recharge Failed,In Progress,2025-02-09
+7637,1553,Billing,Open,2025-03-11
+7638,1240,SIM Issue,Closed,2025-05-19
+7639,1579,SIM Issue,Open,2025-01-20
+7640,1198,SIM Issue,In Progress,2025-04-04
+7641,1270,Network Issue,Closed,2025-02-15
+7642,1281,Slow Internet,Closed,2025-05-14
+7643,1709,Slow Internet,Open,2025-04-02
+7644,1805,Billing,Closed,2025-03-31
+7645,1512,Billing,Closed,2025-04-04
+7646,1605,Billing,Closed,2025-05-04
+7647,1358,Slow Internet,Closed,2025-04-30
+7648,1952,SIM Issue,Open,2025-06-13
+7649,1003,Slow Internet,In Progress,2025-03-19
+7650,1019,Slow Internet,Open,2025-05-08
+7651,1432,SIM Issue,In Progress,2025-06-28
+7652,1085,Billing,In Progress,2025-03-19
+7653,1981,SIM Issue,Closed,2025-04-19
+7654,1307,Billing,Open,2025-05-31
+7655,1604,SIM Issue,Closed,2025-02-18
+7656,1406,Network Issue,Open,2025-07-11
+7657,1614,SIM Issue,Closed,2025-04-28
+7658,1259,Billing,Open,2025-02-23
+7659,1874,SIM Issue,In Progress,2025-03-06
+7660,1302,Slow Internet,In Progress,2025-05-04
+7661,1534,Network Issue,In Progress,2025-07-07
+7662,1960,Billing,In Progress,2025-04-06
+7663,1848,Recharge Failed,Closed,2025-07-12
+7664,1314,Network Issue,Closed,2025-03-14
+7665,1500,Recharge Failed,In Progress,2025-04-01
+7666,1630,Billing,In Progress,2025-05-28
+7667,1244,Recharge Failed,Closed,2025-04-01
+7668,1787,Network Issue,Open,2025-06-09
+7669,1555,Slow Internet,Closed,2025-01-23
+7670,1960,Billing,Closed,2025-02-24
+7671,1523,Slow Internet,Closed,2025-03-13
+7672,1902,SIM Issue,Closed,2025-03-18
+7673,1852,Recharge Failed,In Progress,2025-01-04
+7674,1716,Slow Internet,In Progress,2025-04-07
+7675,1610,Network Issue,Open,2025-06-06
+7676,1932,Recharge Failed,Open,2025-02-26
+7677,1527,Slow Internet,Open,2025-03-04
+7678,1318,Slow Internet,In Progress,2025-06-30
+7679,1958,Slow Internet,In Progress,2025-01-12
+7680,1893,Recharge Failed,Open,2025-05-29
+7681,1213,Slow Internet,Closed,2025-03-11
+7682,1561,Slow Internet,In Progress,2025-03-08
+7683,1749,SIM Issue,Open,2025-04-19
+7684,1062,Recharge Failed,In Progress,2025-07-02
+7685,1609,SIM Issue,Open,2025-04-04
+7686,1478,Network Issue,In Progress,2025-06-26
+7687,1616,Recharge Failed,Closed,2025-07-14
+7688,1972,Slow Internet,Closed,2025-01-02
+7689,1619,Slow Internet,Open,2025-02-06
+7690,1290,Slow Internet,In Progress,2025-04-18
+7691,1442,Billing,Closed,2025-04-10
+7692,1834,Billing,Open,2025-06-20
+7693,1299,Slow Internet,Closed,2025-05-05
+7694,1464,Billing,Closed,2025-04-01
+7695,1534,Slow Internet,In Progress,2025-03-14
+7696,1384,Recharge Failed,Closed,2025-07-01
+7697,1756,Network Issue,In Progress,2025-01-26
+7698,1965,Slow Internet,Open,2025-05-14
+7699,1765,Recharge Failed,Open,2025-06-04
+7700,1963,Recharge Failed,Closed,2025-06-20
